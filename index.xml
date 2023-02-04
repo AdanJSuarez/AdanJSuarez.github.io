@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adan J. Suarez</title>
-    <link>https://AdanJSuarezWeb.github.io/</link>
+    <link>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/</link>
     <description>Recent content on Adan J. Suarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 15:32:59 -0500</lastBuildDate><atom:link href="https://AdanJSuarezWeb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 15:32:59 -0500</lastBuildDate><atom:link href="https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>https://AdanJSuarezWeb.github.io/posts/mypost/</link>
+      <link>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/posts/mypost/</link>
       <pubDate>Sat, 04 Feb 2023 15:32:59 -0500</pubDate>
       
-      <guid>https://AdanJSuarezWeb.github.io/posts/mypost/</guid>
+      <guid>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/posts/mypost/</guid>
       <description>This is my first post.
 &amp;lsquo;&amp;lsquo;&amp;lsquo;golang var xxx = struct{} &amp;rsquo;&amp;rsquo;&amp;rsquo;</description>
     </item>
