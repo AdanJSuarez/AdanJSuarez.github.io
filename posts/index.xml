@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adan J. Suarez</title>
+    <link>https://AdanJSuarezWeb.github.io/posts/</link>
+    <description>Recent content in Posts on Adan J. Suarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Feb 2023 15:32:59 -0500</lastBuildDate><atom:link href="https://AdanJSuarezWeb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://AdanJSuarezWeb.github.io/posts/mypost/</link>
+      <pubDate>Sat, 04 Feb 2023 15:32:59 -0500</pubDate>
+      
+      <guid>https://AdanJSuarezWeb.github.io/posts/mypost/</guid>
+      <description>This is my first post.
+&amp;lsquo;&amp;lsquo;&amp;lsquo;golang var xxx = struct{} &amp;rsquo;&amp;rsquo;&amp;rsquo;</description>
+    </item>
+    
+  </channel>
+</rss>
