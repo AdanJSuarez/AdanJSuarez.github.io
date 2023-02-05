@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology and Trading</title>
+    <title>Software and Trading</title>
     <link>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/</link>
-    <description>Recent content on Technology and Trading</description>
+    <description>Recent content on Software and Trading</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hire me</title>
+      <link>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/hireme/</link>
+      <pubDate>Sun, 05 Feb 2023 10:06:42 -0500</pubDate>
+      
+      <guid>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/hireme/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://adanjsuarez.github.io/AdanJSuarezWeb.github.io/about/</link>
