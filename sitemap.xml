@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adanjsuarez.com/posts/</loc>
+    <loc>https://adanjsuarez.github.io/posts/</loc>
     <lastmod>2023-02-05T10:10:38-05:00</lastmod>
   </url><url>
-    <loc>https://adanjsuarez.com/</loc>
+    <loc>https://adanjsuarez.github.io/</loc>
     <lastmod>2023-02-05T10:10:38-05:00</lastmod>
   </url><url>
-    <loc>https://adanjsuarez.com/hireme/</loc>
+    <loc>https://adanjsuarez.github.io/hireme/</loc>
     <lastmod>2023-02-05T10:06:42-05:00</lastmod>
   </url><url>
-    <loc>https://adanjsuarez.com/about/</loc>
+    <loc>https://adanjsuarez.github.io/about/</loc>
     <lastmod>2023-02-04T20:01:47-05:00</lastmod>
   </url><url>
-    <loc>https://adanjsuarez.com/posts/cgo/</loc>
+    <loc>https://adanjsuarez.github.io/posts/cgo/</loc>
     <lastmod>2023-02-04T15:32:59-05:00</lastmod>
   </url><url>
-    <loc>https://adanjsuarez.com/categories/</loc>
+    <loc>https://adanjsuarez.github.io/categories/</loc>
   </url><url>
-    <loc>https://adanjsuarez.com/series/</loc>
+    <loc>https://adanjsuarez.github.io/series/</loc>
   </url><url>
-    <loc>https://adanjsuarez.com/tags/</loc>
+    <loc>https://adanjsuarez.github.io/tags/</loc>
   </url>
 </urlset>
