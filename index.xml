@@ -35,7 +35,7 @@ MD. in General Navy Corp. MD. in Stock Markets and Financial Derivatives. </desc
       
       <guid>https://AdanJSuarez.github.io/posts/cgo/</guid>
       <description>The formal info about CGO is here. CGO is a Go tool very useful that you could find in many projects but if you read some articles, they say that CGO is dangerous and your should avoid it. Is it that true?
-What is CGO in a simple way? Basically is a tool that allow us to write C code with Go syntax. In other words in C inside Go. Obviously that trigger the next question, why do we need it?</description>
+What is CGO in a simple way? Basically is a tool that allows us to write C code with Go syntax. In other words in C inside Go. Okay, simple but&amp;hellip; why do we need it?</description>
     </item>
     
   </channel>
