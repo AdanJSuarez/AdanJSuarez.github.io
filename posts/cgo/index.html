@@ -44,10 +44,26 @@
         <h1>CGO isn&rsquo;t a beast</h1>
     </header>
     <div class="content__body">
-        <p>The formal info about CGO is <a href="https://pkg.go.dev/cmd/cgo">here</a>. CGO is a golang tool very useful that you could find in many projects but if you read some articles, they say that CGO is dangerous and your should avoid it. <code>Is it that true?</code></p>
-<p>What is CGO in a simple way? Basically is a tool that allow us to write C code with Go syntax. In other words in C inside Go.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">xxx</span> <span style="color:#66d9ef">struct</span>{}
-</span></span></code></pre></div>
+        <p>The formal info about CGO is <a href="https://pkg.go.dev/cmd/cgo">here</a>. CGO is a Go tool very useful that you could find in many projects but if you read some articles, they say that CGO is dangerous and your should avoid it. <code>Is it that true?</code></p>
+<p>What is CGO in a simple way? Basically is a tool that allow us to write C code with Go syntax. In other words in C inside Go. Obviously that trigger the next question, <code>why do we need it?</code></p>
+<p>The main use of CGO is that it allows us to link our code to another code written in other languages like C++, Rust or even Python bidirectionally. What I mean is that we can use Go code to be used in other languages, or other language codes to be use in our Go code.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#75715e">// #include &lt;stdio.h&gt;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// #include &lt;errno.h&gt;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;C&#34;</span>
+</span></span></code></pre></div><p>The main use cases are:</p>
+<ul>
+<li>Link a dynamic C-shared library (dll, os) to our code.</li>
+<li>Link statically archive C-shared libraries to our code.</li>
+</ul>
+<p>We could write code in CGO and run it as it, but even though that is possible it doesn&rsquo;t make sense. If you need to write C code, do it in C directly and not in CGO.</p>
+<p>Some recommendations we keep in mind though:</p>
+<ul>
+<li>This is C, if you allocate memory, you need to <code>free</code> it.</li>
+<li>Use the modern approach to C. Use a central allocator, and do not allocate memory here and there in you code.</li>
+<li>Hiding information (OOP) is possible using the header. You can define the <code>struct</code> with no field in the header and define then in the implementation file. This is a good practice to have a clean code.</li>
+</ul>
+<p>In the next post I will show an example of how to link a C-shared library to our Go code.</p>
+
     </div>
     <footer class="content__footer"></footer>
 
