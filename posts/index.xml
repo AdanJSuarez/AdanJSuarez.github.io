@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on Software and Trading</title>
+    <link>https://AdanJSuarez.github.io/posts/</link>
+    <description>Recent content in posts on Software and Trading</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2023 10:10:38 -0500</lastBuildDate><atom:link href="https://AdanJSuarez.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGO isn&#39;t a beast</title>
+      <link>https://AdanJSuarez.github.io/posts/cgo/</link>
+      <pubDate>Sat, 04 Feb 2023 15:32:59 -0500</pubDate>
+      
+      <guid>https://AdanJSuarez.github.io/posts/cgo/</guid>
+      <description>The formal info about CGO is here. CGO is a golang tool very useful that you could find in many projects but if you read some articles, they say that CGO is dangerous and your should avoid it. Is it that true?
+What is CGO in a simple way? Basically is a tool that allow us to write C code with Go syntax. In other words in C inside Go.</description>
+    </item>
+    
+  </channel>
+</rss>
