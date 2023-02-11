@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AdanJSuarez.github.io/posts/whyisaynottotct/</loc>
+    <loc>https://AdanJSuarez.github.io/posts/trading/cryptocurrency/</loc>
+    <lastmod>2023-02-11T15:12:12-05:00</lastmod>
+  </url><url>
+    <loc>https://AdanJSuarez.github.io/posts/software/whyisaynottotct/</loc>
     <lastmod>2023-02-07T16:48:35-05:00</lastmod>
   </url><url>
     <loc>https://AdanJSuarez.github.io/</loc>
@@ -17,7 +20,7 @@
     <loc>https://AdanJSuarez.github.io/about/</loc>
     <lastmod>2023-02-04T20:01:47-05:00</lastmod>
   </url><url>
-    <loc>https://AdanJSuarez.github.io/posts/cgo/</loc>
+    <loc>https://AdanJSuarez.github.io/posts/software/cgo/</loc>
     <lastmod>2023-02-04T15:32:59-05:00</lastmod>
   </url><url>
     <loc>https://AdanJSuarez.github.io/categories/</loc>
