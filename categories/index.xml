@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Software and Trading</title>
-    <link>https://www.adanjsuarez.com/categories/</link>
+    <link>https://adanjsuarez.github.io/categories/</link>
     <description>Recent content in Categories on Software and Trading</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.adanjsuarez.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://adanjsuarez.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
